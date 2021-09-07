@@ -3,6 +3,6 @@ prefix=/home/wth/test/devel
 Name: example
 Description: Description of example
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/wth/test/devel/include
 Libs: -L${prefix}/lib 
 Requires: 
